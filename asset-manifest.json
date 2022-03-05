@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.9f03957a.chunk.css",
+    "main.css": "./static/css/main.46e02785.chunk.css",
     "main.js": "./static/js/main.6a975d85.chunk.js",
     "main.js.map": "./static/js/main.6a975d85.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.6a640101.js",
@@ -10,9 +10,9 @@
     "static/js/2.7db638fc.chunk.js.map": "./static/js/2.7db638fc.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.d93397df.chunk.css.map": "./static/css/2.d93397df.chunk.css.map",
-    "static/css/main.9f03957a.chunk.css.map": "./static/css/main.9f03957a.chunk.css.map",
+    "static/css/main.46e02785.chunk.css.map": "./static/css/main.46e02785.chunk.css.map",
     "static/js/2.7db638fc.chunk.js.LICENSE.txt": "./static/js/2.7db638fc.chunk.js.LICENSE.txt",
-    "static/media/App.css": "./static/media/Frame.c01d8b6f.png",
+    "static/media/App.css": "./static/media/comicbd.03ce8dc3.ttf",
     "static/media/bar.27f2d845.png": "./static/media/bar.27f2d845.png",
     "static/media/gif_animation.969a8107.gif": "./static/media/gif_animation.969a8107.gif"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.6a640101.js",
     "static/css/2.d93397df.chunk.css",
     "static/js/2.7db638fc.chunk.js",
-    "static/css/main.9f03957a.chunk.css",
+    "static/css/main.46e02785.chunk.css",
     "static/js/main.6a975d85.chunk.js"
   ]
 }
